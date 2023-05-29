@@ -61,24 +61,7 @@ namespace HW3_ksh
             }
 
             //EXER 4
-            //int prime = 1;
-
-            //int sum;
-            //sum = 1;
-            //int total = 1;
-
-
-            //while (prime < 500)
-            //{
-
-            //    if (isPrime(prime)) { total = total + prime; }
-
-
-            //    prime++;
-
-
-            //}
-            //Console.Write(" Sum of the first 500 prime numbers: " + total);
+            
 
 
             int sum = 0;
